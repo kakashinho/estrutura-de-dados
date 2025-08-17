@@ -1,0 +1,3 @@
+Essas provas, juntamente com os exercícios de listas e dicionários usando comprehension, foram revisões para o início do estudo de Estrutura de Dados em Python.
+As provas de Algoritmos (P1, P2 e a Substitutiva) têm duração de 1 hora e 20 minutos. Os exercícios valem 1 ponto, e a P2 possui uma questão bônus. Essas provas normalmente são muito trabalhosas, sendo necessário praticar bastante os exercícios para conseguir resolvê-los dentro do tempo da prova.
+As provas são realizadas em papel A4 em branco e com caneta, mas é permitido o uso de lápis, se preferir.
